@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="Catalog.Библеотеки" id="511c1b1d-cdbd-41d5-97fe-675b41531833" configVersion="dfc0ce6c85d8cc4a99829a86c5bb12a700000000">
+			<Metadata name="Catalog.Библеотеки.Attribute.Назавние" id="1238a45e-ab16-40d2-a335-96540ce89f51"/>
+			<Metadata name="Catalog.Библеотеки.Attribute.Город" id="8c1b9e56-07e7-4572-a968-758d818bb791"/>
+			<Metadata name="Catalog.Библеотеки.Attribute.Адрес" id="d2ccb4bf-3ba9-4856-a008-0b638a5ee4cc"/>
+		</Metadata>
+		<Metadata name="Catalog.Пополние_фонда" id="b43f04f1-a7de-415d-8849-0b6adbce6552" configVersion="2adea7ba98543345999058129af0f6a800000000">
+			<Metadata name="Catalog.Пополние_фонда.Attribute.Тип_литературы" id="06c2bdb2-55b6-4456-aacb-24d7e7fe2845"/>
+			<Metadata name="Catalog.Пополние_фонда.Attribute.Дата_издания" id="1481c19b-616d-4995-a40f-d7295cfb33fd"/>
+			<Metadata name="Catalog.Пополние_фонда.Attribute.Дата" id="1cb4bc65-8a9a-4a37-bcfc-00fed757af65"/>
+			<Metadata name="Catalog.Пополние_фонда.Attribute.Сотрудник" id="4c0a65e8-67c0-4bc9-85c8-23230706ed16"/>
+			<Metadata name="Catalog.Пополние_фонда.Attribute.Издательство" id="5871f6e2-da19-43a6-b95a-bc2bf92bf514"/>
+			<Metadata name="Catalog.Пополние_фонда.Attribute.Название_источника_литературы" id="5b145388-88c4-4e5a-bd01-3c22ef8f72ec"/>
+			<Metadata name="Catalog.Пополние_фонда.Attribute.Фонд" id="99ac4088-8bc5-4133-a35c-e7917c35e01d"/>
+			<Metadata name="Catalog.Пополние_фонда.Attribute.Кол_во_экземпляров" id="c714d202-5bf8-4459-a44c-70b3142353fd"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="ac6a055b-8c28-44cf-8ff1-ac61034e6e4c" configVersion="b470b52b0ca12146896c9a6b48a71fff00000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.Год_рождения" id="014b8ff2-72ea-482d-b2c1-26dd0826ec25"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="02d65ef6-634a-4278-a25c-012e9cf8e0bb"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Образование" id="1810a468-1504-4158-bb58-f4e64903aaa7"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Фамилия_сорудника" id="18f9e19f-c7f9-40ed-b0ff-41cd99e0d310"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Зарплата" id="8be9e0fb-34be-46f8-b82e-6757253e0656"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Год_поступления_на_работу" id="a41eae85-4e92-4d95-aadd-9659d87ca8cc"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Библеотека" id="ea761608-6953-4441-8ab9-0c68bb8084c5"/>
+		</Metadata>
+		<Metadata name="Catalog.Тип_литературы" id="b0236a2b-7e0f-4fe8-8c9e-f31931d3d7ef" configVersion="f23107ea1cd63145826d6fc97ecda85b00000000">
+			<Metadata name="Catalog.Тип_литературы.Attribute.Название_типа" id="256a8458-fd04-4ca9-8708-69a1a524765d"/>
+		</Metadata>
+		<Metadata name="Catalog.Фонд_библеотеки" id="0efd293c-a1c9-4505-abfa-63c84023f075" configVersion="43813a0adb6c164d8f69eeaf3bee886e00000000">
+			<Metadata name="Catalog.Фонд_библеотеки.Attribute.Кол_во_журналов" id="1f6c59b6-6549-40df-848d-e479e5af3c5f"/>
+			<Metadata name="Catalog.Фонд_библеотеки.Attribute.Название_фонда" id="40ea39dd-4a38-4e4a-aa81-8a01e034bd0b"/>
+			<Metadata name="Catalog.Фонд_библеотеки.Attribute.Кол_во_сборников" id="7f166343-a076-4fb7-a9fe-1f522f718529"/>
+			<Metadata name="Catalog.Фонд_библеотеки.Attribute.Кол_во_книг" id="a48e7300-5e4f-4436-8445-8262e3fb145e"/>
+			<Metadata name="Catalog.Фонд_библеотеки.Attribute.Кол_во_диссертаций" id="d0901f6f-a56b-44eb-8fd8-ad526720c9e6"/>
+			<Metadata name="Catalog.Фонд_библеотеки.Attribute.Кол_во_рефератов" id="e919ba1f-18c6-48ad-b0c2-21ba48ea639f"/>
+			<Metadata name="Catalog.Фонд_библеотеки.Attribute.Кол_во_газет" id="f8e0a21f-cad2-420c-8661-f30f6338a80a"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="d97353f0-6871-4463-89b4-b24dccd1958c" configVersion="204875f3da2309439c90dccdf4a60ee100000000"/>
+		<Metadata name="Enum.тип_литры" id="1800de52-15f7-45a6-9468-f3b7cc757846" configVersion="b8f32e94a2018948ac144b9680cf0f7d00000000">
+			<Metadata name="Enum.тип_литры.EnumValue.в" id="48be29bf-d162-406f-9680-5a3181ab2c7b"/>
+			<Metadata name="Enum.тип_литры.EnumValue.б" id="657530f8-5a2a-41a3-bbfa-a5983b71da9f"/>
+			<Metadata name="Enum.тип_литры.EnumValue.а" id="7eb4a7cd-0daf-4db8-9341-a5f49b8b1c54"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="a36502e4-c332-478f-a9df-0383249d4ad7" configVersion="b34b49a890bb1642bcaad0584a81643e00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

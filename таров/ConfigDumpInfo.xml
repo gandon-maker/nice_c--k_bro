@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="Catalog.Должности" id="258a6b97-9396-4199-9735-56b0c236b8d3" configVersion="d402db4d24695a4b8c7a948fa5aa383f00000000">
+			<Metadata name="Catalog.Должности.Attribute.СуммаСтавки" id="e09b03a8-bfdb-415c-99a3-1c8b0541d178"/>
+		</Metadata>
+		<Metadata name="Catalog.Отделы" id="7c21802d-a9fb-47ae-b9ca-50cbd35e4345" configVersion="d65d1facd138bd4b9f2ec661a7fb031c00000000">
+			<Metadata name="Catalog.Отделы.Attribute.КоличествоПродавцов" id="6b6c68ac-036f-42fd-99e6-943122efbf8b"/>
+			<Metadata name="Catalog.Отделы.Attribute.КоличествоПрилавков" id="79f3a2ce-e46d-48fc-848e-14030cc20c96"/>
+			<Metadata name="Catalog.Отделы.Attribute.НомерЗала" id="ee0add54-1cbb-41aa-9dbe-65384e5bfe26"/>
+		</Metadata>
+		<Metadata name="Catalog.ПродажаТоваров" id="8070ee46-a534-477c-b9be-98266237bb22" configVersion="f55835b7345f1d4eb72b2d0460ab22bd00000000">
+			<Metadata name="Catalog.ПродажаТоваров.Attribute.Время" id="7e7b5f18-3854-4306-95a1-87cb22d7663c"/>
+			<Metadata name="Catalog.ПродажаТоваров.Attribute.Цена" id="92c971c8-e8da-4ff2-9d8e-725c85c36991"/>
+			<Metadata name="Catalog.ПродажаТоваров.Attribute.СотрудникЯвляющимяПродавцом" id="961de697-1158-4fe8-8bab-5245e58d7104"/>
+			<Metadata name="Catalog.ПродажаТоваров.Attribute.Сумма" id="d01093f0-b77e-4263-bfd5-f49e66fb90f4"/>
+			<Metadata name="Catalog.ПродажаТоваров.Attribute.Количество" id="e0794d58-8fed-442e-8661-762b0219bb91"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="0042aadb-3812-4565-877c-a7f2f9545d99" configVersion="30edb52b982734419c25372a2af23d5e00000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.ГодРождения" id="06acb139-4f38-4dee-91a7-1cf6462ee250"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Фамилия" id="0f06fb4e-1c19-4ffe-bc07-dac92ca0c62c"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Телефон" id="13ed44df-5884-42d8-bd04-68d6fcdb2628"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Адрес" id="2348fe3c-d9d7-4ca5-82df-ff833009e9ef"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Имя" id="30e6d2a7-7f27-45a0-b75d-4edec5346989"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.ГодПоступления" id="361bc131-2973-4e83-8207-30427c491b16"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Стаж" id="43944b7a-4d86-44da-b2a4-fe3872c17b57"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Отдел" id="ad5aaa38-f14d-4ee1-8706-e0ef0c216131"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Пол" id="c24b6210-e2fc-42a9-aeba-b365551c5385"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="d2054a84-3faf-405a-ba02-80623c450a12"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Город" id="efd93857-97e8-4d92-9b4d-7a1992936c62"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="fc1f5b83-881a-4a9a-b843-d066eeeba52f"/>
+		</Metadata>
+		<Metadata name="Catalog.Товары" id="537ee683-b833-432a-844e-f27067110d78" configVersion="3eaefb3c6329a247928bc7dd3d98351e00000000">
+			<Metadata name="Catalog.Товары.Attribute.СрокиХранения" id="409e52f7-06ea-40ab-a97a-4b8bc273818a"/>
+			<Metadata name="Catalog.Товары.Attribute.Отдел" id="54d9d8b6-d940-4c40-8e58-519878359e7f"/>
+			<Metadata name="Catalog.Товары.Attribute.УсловияХранения" id="7a3bb728-185e-43ff-9ffc-3c9a0d579a70"/>
+			<Metadata name="Catalog.Товары.Attribute.СтранаПроизводитель" id="8ff63849-4484-43e9-a2b6-f312946cc6a9"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="37fa2c9b-323f-43f1-b741-bd04071e296b" configVersion="ff5543bf4183b94f8fbebbf6461bb42500000000"/>
+		<Metadata name="Language.Русский" id="fceeaefd-5ce4-43f9-92db-9c8a47219ada" configVersion="ac59118e3edde244a3bdbeba551a6aac00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
